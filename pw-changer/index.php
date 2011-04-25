@@ -40,7 +40,7 @@
 <br>
 <br>
 <br>
-<a href="http://faceclone.1x.de">Made by FrickX</a>
+<a href="http://frickx.jshost.net/forum/">Made by FrickX</a>
 </center>
 </body>
 </html>
