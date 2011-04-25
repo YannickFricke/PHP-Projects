@@ -3,7 +3,7 @@
  * Copyright by FrickX @ http://frickx.jshost.net/forum/
  * Copyright by FrickX @ http://easy-emu.de/
  * Checkout http://frickx.jshost.net/forum/ for new versions and PHP-Scripts! ;)
- * If you have qestions ask me @ frickx94@googlemail.com
+
  */
 
 echo "<html><head><title>FrickX's Status Skript</title></head></html>";
