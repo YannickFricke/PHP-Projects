@@ -1,5 +1,10 @@
 Hier findet ihr PHP-Skripte fuer WoW-Emulatoren.
 Die meisten Skripte werden fuer Trinity sein.
 
+Normalerweise ist die db.php immer für die MySQL-COnnection verantwortlich.
+Im WoW-Panel ist die connect.php zu editieren!
+
 Here you can find PHP-Scripts for WoW-Emulators.
 The most of the scripts will be for Trinity.
+In most cases the file 'db.php' is the configuration to the MySQL-Database.
+In my WoW-Panel is it the 'config.php'.
