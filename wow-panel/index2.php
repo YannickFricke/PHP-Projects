@@ -5,7 +5,7 @@ define('INCLUDE_CHECK',true);
 require 'connect.php';
 require 'functions.php';
 require 'config.php';
-// Those two files can be included only if INCLUDE_CHECK is defined
+// Those three files can be included only if INCLUDE_CHECK is defined
 
 
 session_name('wowpanel');
